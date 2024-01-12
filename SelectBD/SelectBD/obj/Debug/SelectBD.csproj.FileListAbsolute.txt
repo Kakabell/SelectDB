@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\bin\Debug\SelectBD.exe.config
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\bin\Debug\SelectBD.exe
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\bin\Debug\SelectBD.pdb
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\obj\Debug\SelectBD.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\obj\Debug\SelectBD.Form1.resources
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\obj\Debug\SelectBD.Properties.Resources.resources
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\obj\Debug\SelectBD.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\obj\Debug\SelectBD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\obj\Debug\SelectBD.exe
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\obj\Debug\SelectBD.pdb
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\bin\Debug\SelectBD.exe.manifest
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\bin\Debug\SelectBD.application
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\obj\Debug\SelectBD.exe.manifest
+C:\Users\Usuario\source\repos\SelectBD\SelectBD\obj\Debug\SelectBD.application
